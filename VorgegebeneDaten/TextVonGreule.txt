@@ -1,0 +1,27 @@
+Hallo Masterstudierende DR,
+
+wie in der Vorlesung schon angekündigt, besteht die Laborübung in dem Fach Digital Reality darin, den Besprechungsraum  (3.025) und den Computerraum (3.028) des Lichtlabors im 3. OG, Gebäude B  so realistisch wie möglich nachzubauen, damit wir überprüfen und testen können, wie gut 3D-Programme bzw. Gameengines Räume, Materialien und auch Licht berechnen und simulieren können. Mein Ziel dieser Laborübung ist zu erarbeiten, wie gut können die Programme Räume, Materialien und Licht berechnen  und dies auch im Realitätscheck, wenn wir im Raum sitzen und uns Realität und Simulation betrachten.
+
+1) Erster Teil die Materialien, Tische etc. und Spiegelungen so realistisch wie möglich simulieren.
+
+2) Die Kunstlichtbeleuchtung so realistisch wie möglich simulieren. Dazu bitte die beigefügte Leuchte verwenden und simulieren (wenn möglich). Beigefügt die LVK-Dateien der eingesetzten Leuchten in *.ldt- und*.ies-Format. Diese Dateien müssten eigentlich Euere ausgewählten Programme einlesen können.
+
+3) Dritter  Teil der Laborübung ist zu schauen, wie gut die Programme Sonnenberechnungen durchführen können und diffuse Tageslichtberechnungen. Dazu bitte den Sonneneinfall am 21.03 um 10.00 Uhr und 15.00 Uhr am 21.06 um 10.00 Uhr und 15.00 Uhr berechnen lassen und das Gleiche mit diffusem Tageslicht (global illumination).
+
+Dazu bitte sich als Gruppen finden (bitte nicht mehr als 3 Personen pro Gruppe, 2 wären ideal) oder alleine.
+
+Dann bitte eines der gängigen Programme auswählen, die ihr kennt, in denen Ihr fit seit oder gerne einarbeiten wollt: z.B. Unreal, Units, Blender, 3dsMax, Deltagen, Dialux Evo 8.0, Hilite, dassault u.a.
+
+Bitte teilt mir mit, mit welchem Programm ihr arbeiten wollt, nicht dass wir 5x Unity haben.
+
+Wenn in Unity und Unreal simuliert wird, dann natürlich auch in VR präsentieren.
+
+Das Ganze bis spätestens am 03.07 beenden und dann in der Vorlesung am 04.07 und 11.07 präsentieren.
+
+Wenn Ihr Hilfe benötigt, dann sagt Bescheid: ich habe Spezialisten für Unity, Unreal, Blender, 3dsMax, Hilite und Dialux evo.
+
+Beigefügt einmal ein kurze Zusammenstellung der Räume im Lichtlabor mit Relux Suite, sowie entsprechende Berechnungen. Beigefügt ist die Original-Reluxdatei (unberechnet, damit die Datei  klein bleibt).
+
+ 
+
+Roland Greule (05.04.18)
